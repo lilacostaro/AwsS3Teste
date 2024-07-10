@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsS3Teste", "AwsS3Teste\AwsS3Teste.csproj", "{D2F5FD0D-B37E-4F16-A77A-19853896A84C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{EE9F2038-F9DA-4D7E-8FA6-CEDCE318321A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F5FD0D-B37E-4F16-A77A-19853896A84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F5FD0D-B37E-4F16-A77A-19853896A84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F5FD0D-B37E-4F16-A77A-19853896A84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F5FD0D-B37E-4F16-A77A-19853896A84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9F2038-F9DA-4D7E-8FA6-CEDCE318321A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9F2038-F9DA-4D7E-8FA6-CEDCE318321A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9F2038-F9DA-4D7E-8FA6-CEDCE318321A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9F2038-F9DA-4D7E-8FA6-CEDCE318321A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C88F54E-27E7-4462-9B45-8DAF2C4CCD88}
+	EndGlobalSection
+EndGlobal
